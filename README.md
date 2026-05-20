@@ -1,4 +1,4 @@
-# Arogya – AI-Based Diagnostic System for Rural Healthcare
+# Arogya – AI-Based Diagnostic System for Smarter Healthcare Solutions
 
 **Arogya** is a simple yet powerful AI-assisted web application built to improve healthcare access in rural India. It allows users to enter symptoms, receive AI-generated diagnostic suggestions using the **OpenRouter API**, and view results on a clean HTML interface. It does not use machine learning or complex databases, making it lightweight and easy to deploy.
 
